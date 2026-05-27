@@ -1,0 +1,5 @@
+<resources>
+    <!-- Tema de la app -->
+    <style name="Theme.Esquivar2D" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
